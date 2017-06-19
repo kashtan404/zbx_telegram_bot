@@ -21,6 +21,11 @@ Usage
 ------
 uncompleted
 
+Currently worked command:
+  - /zabbixapi hostgroup get
+  - /zabbixapi event get
+  - /zabbixapi host get
+
 
 License
 -------
